@@ -1,0 +1,2 @@
+This is file2
+I want to remeber how to use GIT
